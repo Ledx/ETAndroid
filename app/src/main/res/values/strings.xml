@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ETAndroid</string>
+    <string name="title_activity_inicio">ATON</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Estacion de Monitoreo ATON</string>
+    <string name="nav_header_subtitle">led.ruvalcaba@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="reportes_fragment">REPORTES</string>
+    <string name="consola_fragment">CONSOLA DE COMANDOS</string>
+    <string name="graficar_fragment">GRAFICAS</string>
+    <string name="imagenes_fragment">VISOR DE IMAGENES</string>
+
+</resources>

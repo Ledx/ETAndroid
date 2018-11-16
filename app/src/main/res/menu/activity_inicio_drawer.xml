@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item android:id="@+id/navGraficar"
+            android:icon="@drawable/icn_grafica"
+            android:title="Graficador" />
+        <item android:id="@+id/navReportes"
+            android:icon="@drawable/icn_reporte"
+            android:title="Reporte" />
+        <item android:id="@+id/navConsola"
+            android:icon="@drawable/icn_consola"
+            android:title="Consola" />
+        <item android:id="@+id/navImagenes"
+            android:icon="@drawable/icn_visor_imagenes"
+            android:title="Imagenes" />
+    </group>
+</menu>
